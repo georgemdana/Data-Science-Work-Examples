@@ -4,6 +4,11 @@
 
 # In[24]:
 
+# What: Minimize Costs Dynamically
+# Who: Dana M George
+# Purpose: 
+#   clean data
+#   choose best model
 
 from ortools.linear_solver import pywraplp
 from datetime import datetime
