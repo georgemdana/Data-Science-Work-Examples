@@ -9,8 +9,9 @@
 # Who: Dana M George
 # Purpose: 
 #   clean data
-#   choose best model
-
+#   feature engineer
+#   choose best model, train and test
+#   accurately predict exercise done by participant
 
 # In[209]:
 
