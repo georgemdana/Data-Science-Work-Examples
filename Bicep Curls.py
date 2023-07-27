@@ -6,7 +6,6 @@
 
 
 # What: Weight lifting exercise classification problem
-# When: 3/10/2022
 # Who: Dana M George
 # Purpose: 
 #   clean data
